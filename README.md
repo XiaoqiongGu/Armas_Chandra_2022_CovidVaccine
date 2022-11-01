@@ -1,4 +1,4 @@
-## Repository accompanying Armas and Chandra et al. Contextualizing SARS-CoV-2 Wastewater-Based Surveillance in the COVID-19 Vaccination Era
+## Repository accompanying Armas and Chandra et al. Contextualizing SARS-CoV-2 Wastewater-Based Surveillance in the COVID-19 Vaccination Era: a Perspective
 
 Link to the manuscript: to be added
 
