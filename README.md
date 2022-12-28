@@ -1,6 +1,6 @@
-## Repository accompanying Armas and Chandra et al. Contextualizing SARS-CoV-2 Wastewater-Based Surveillance in the COVID-19 Vaccination Era
+## Repository accompanying Armas and Chandra et al. Contextualizing  Wastewater-Based Surveillance in the COVID-19 Vaccination Era
 
-Link to the manuscript: to be added
+Link to the manuscript: [https://doi.org/10.1016/j.envint.2022.107718](https://doi.org/10.1016/j.envint.2022.107718)
 
 The replication notebook uses files containing qPCR Ct calls and metadata. It calculate the WC ratio and makes final plots.
 
